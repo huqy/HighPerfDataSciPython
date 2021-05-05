@@ -1,5 +1,7 @@
 # UCLA IDRE Workshop Series "High Performance Data Science in Python"
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://huqy.github.io/HighPerfDataSciPython/LICENSE.md)
+
 This folder contains the PDF slides and colab demos for the "High Performance Data Science in Python" workshop series hosted by UCLA IDRE/OARC. The lecture contents are updated for May 2021.
 
 #### (1) Interpreter War
