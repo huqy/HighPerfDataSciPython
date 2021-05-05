@@ -6,7 +6,7 @@ This folder contains the PDF slides and colab demos for the "High Performance Da
 
  - When: May 5, 2021 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJItdemvrz0vE9b_GXTvZacIpjNNq8vKyVIX) before joining
- - Slides will be available after the talk.
+ - [Slides](https://huqy.github.io/HighPerfDataSciPython/1_interpreter.pdf)
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_01) &ndash; for Python Interpreter demo
 
 #### (2) DataFrame Game
