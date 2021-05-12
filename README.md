@@ -15,7 +15,9 @@ This folder contains the PDF slides and colab demos for the "High Performance Da
 
  - When: May 12, 2021 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJwsfuytrj8oGdXT__uoR0u5ReA5kLNCSoyN) before joining
- - Colab Demo will be available hours before the talk.
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_02) &ndash; for NumPy/Pandas speedup demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_03) &ndash; for Dask examples demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_04) &ndash; for Vaex examples demo
  - Slides will be available after the talk.
 
 
