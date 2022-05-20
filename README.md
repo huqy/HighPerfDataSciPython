@@ -19,7 +19,7 @@ This folder contains the PDF slides and colab demos for the "Boosting Python for
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_02) &ndash; for NumPy/Pandas speedup demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_03) &ndash; for Dask examples demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_04) &ndash; for Vaex examples demo
- - [Slides](https://huqy.github.io/HighPerfDataSciPython/1_dataframe.pdf)
+ - [Slides](https://huqy.github.io/HighPerfDataSciPython/2_dataframe.pdf)
  - [Survey](https://bit.ly/survey_py_02)
 
 
