@@ -6,25 +6,27 @@ While Python has been the most popular programming language since 2019, data sci
 
 This folder contains the PDF slides and colab demos for the "Python for High Performance Data Analytics" workshop series hosted by UCLA OARC. 
 
-The lecture contents are currently updated for May 2024.
+The lecture contents are currently updated for Feb 2025.
 
 #### (1) Computation
 
- - When: May 17, 2024 10am-12:00pm (PST)
- - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJwlce-orTIjGdQnVCkywrOg_mddNW4v21xZ) before joining
+ - When: Feb 21, 2025 10am-12:00pm (PST)
+ - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJAsduGopjIuGdY_Axzz8p-4S0a5GsmaJW0t) before joining
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_01) &ndash; for Python Interpreter demo
  - [Slides](https://huqy.github.io/HighPerfDataSciPython/1_interpreter.pdf) 
+ - [Survey](https://app.smartsheet.com/b/form/90289a7a99904ef395c7bebbb7c9f212) 
 
 
 #### (2) Array-Type Data 
 
- - When: May 24, 2024 10am-12:00pm (PST)
- - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJMpf-6rpzkvHNIVcf9fCA72JKMibTyH4R8B) before joining
+ - When: Feb 28, 2025 10am-12:00pm (PST)
+ - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJMvdO2tqzgvGdOHXgn4alVu04ckveI1ZFif#/registration) before joining
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_00) &ndash; for Looping speedup tricks demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_02) &ndash; for NumPy/Pandas speedup demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_03) &ndash; for Dask examples demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_04) &ndash; for Vaex examples demo
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/hpdspy_05) &ndash; for Pandas/Polars examples demo
  - Slides
+ - [Survey](https://app.smartsheet.com/b/form/90289a7a99904ef395c7bebbb7c9f212)
 
 ### Instructor: [Qiyang Hu](https://oarc.ucla.edu/people/profiles/qiyang-hu)
